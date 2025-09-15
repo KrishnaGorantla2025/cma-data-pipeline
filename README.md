@@ -1,6 +1,6 @@
 # cma-data-pipeline
 
-A compact, productionised ETL that **ingests -> validates/cleans -> de-duplicates -> enriches -> writes Parquet** and emits a **JSON data-quality report**.  
+Productionised ETL pipeline that **ingests -> validates/cleans -> de-duplicates -> enriches -> writes Parquet** and emits a **JSON data-quality report**.  
 
 python -m venv .venv && source .venv/bin/activate
 
