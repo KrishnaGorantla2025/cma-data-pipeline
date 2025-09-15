@@ -1,0 +1,59 @@
+{
+  "input": {
+    "rows": 216
+  },
+  "validation_issues": {
+    "missing_nulls": {
+      "date": 6,
+      "seller_id": 32,
+      "region": 31,
+      "category": 31,
+      "item_id": 30,
+      "price_gbp": 15,
+      "condition": 0
+    },
+    "missing_empty": {
+      "date": 0,
+      "seller_id": 0,
+      "region": 1,
+      "category": 0,
+      "item_id": 0,
+      "price_gbp": 0,
+      "condition": 0
+    },
+    "invalid_date": 15,
+    "invalid_price": 43,
+    "invalid_region": 32,
+    "invalid_condition": 0
+  },
+  "rows_removed_invalid": 129,
+  "rows_removed_duplicates": 6,
+  "output": {
+    "row_count": 81,
+    "price": {
+      "min": 5.77,
+      "max": 299.94,
+      "avg": 155.4595061728395,
+      "p50": 168.86,
+      "p95": 278.96
+    },
+    "by_region": {
+      "North": 27,
+      "East": 25,
+      "West": 16,
+      "South": 13
+    },
+    "by_category": {
+      "Clothing": 24,
+      "Books": 22,
+      "Toys": 18,
+      "Electronics": 17
+    },
+    "by_segment": {
+      "Fashion": 24,
+      "Media": 22,
+      "Leisure": 18,
+      "Durables": 17
+    }
+  }
+}
