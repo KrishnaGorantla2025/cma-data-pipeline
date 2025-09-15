@@ -1,0 +1,217 @@
+date,seller_id,region,category,item_id,price_gbp,condition
+2025-01-05,S012,North,Toys,I00107,180.77,used
+2025-01-02,S006,South,Clothing,,197.33,new
+2025-01-02,S016,West,Toys,I00200,298.23,used
+2025-01-03,S015,East,Toys,I00047,138.17,new
+2025-01-05,S008,South,Clothing,I00037,237.44,new
+2025-01-07,S013,North,,I00112,271.08,new
+,,,Toys,I00136,19.27,used
+2025-01-05,S010,East,Clothing,,,used
+2025-01-01,,South,Clothing,I00125,289.28,used
+20250105,S016,  ,Electronics,I00020,37.79,new
+2025-01-07,S012,East,Clothing,,231.33,new
+2025-01-02,S014,East,Toys,I00143,201.05,new
+2025-01-06,,East,Books,I00077,185.24,new
+2025-01-03,S007,East,,I00045,2.77,new
+2025-01-02,,West,Clothing,I00183,169.5,used
+32-01-2025,S013,South,,I00093,274.84,used
+2025-01-06,S005,,Electronics,I00038,bad_price,new
+2025-01-03,S018,East,Books,I00099,174.86,used
+2025-01-03,S019,North,Books,I00165,89.16,new
+2025-01-04,S003,,Toys,I00050,187.37,new
+2025-01-01,S012,North,Toys,I00025,174.58,new
+2025-01-03,S002,North,Electronics,,54.78,new
+2025-01-04,S010,South,Clothing,I00055,168.25,new
+2025-01-07,S004,,Clothing,I00135,285.35,new
+2025-01-03,S002,South,Clothing,I00157,294.45,new
+2025-01-06,S013,North,Books,I00117,153.67,used
+2025-01-02,S008,North,Toys,I00010,221.99,new
+,S001,South,Clothing,I00087,192.08,new
+2025-01-06,S010,East,Electronics,I00052,0,new
+2025-01-04,S011,South,,,92.6,new
+2025-01-03,S011, WEST ,Electronics,I00073,0,new
+2025-01-01,S018,East,Electronics,I00196,120.72,used
+2025-01-04,S011,,Clothing,I00083,263.72,new
+2025-01-05,S020,North,Books,I00149,-1,new
+2025-01-03,S003,North,Clothing,I00191,213.31,new
+2025-01-06,S008,,Books,I00041,169.59,used
+2025-01-04,S006, NORTH ,Clothing,I00163,223.87,new
+2025-01-06,,East,,I00159,298.99,new
+2025-01-03,,East,Toys,I00103,-1,new
+2025-01-02,S008,,Toys,I00015,57.68,new
+2025-01-06,S003,North,,I00120,185.24,new
+2025-01-06,S007,West,Electronics,I00085,45.45,used
+2025-01-01,S005,South,Clothing,I00054,66.36,new
+2025-01-07,S015,North,Toys,I00090,233.0,new
+2025-01-06,S010, WEST ,Toys,,82.44,used
+2025-01-06,S003,North,Clothing,I00154,241.12,new
+2025-01-02,,,Toys,I00067,72.8,used
+2025-01-03,S010,West,Clothing,I00017,268.95,used
+2025-01-07,S008,,Clothing,I00064,,new
+2025-01-02,,North,,I00175,56.6,new
+2025-01-06,S009,South,Clothing,I00111,223.82,used
+2025-01-02,S001,North,Electronics,I00081,273.21,used
+2025-01-06,S007,East,Books,,200.46,new
+2025-01-01,S005, SOUTH ,Clothing,I00054,94.55,new
+2025-01-02,S020,West,Books,I00051,267.75,used
+2025-01-06,,North,Toys,I00005,-1,used
+2025-01-03,,,Books,I00116,0,new
+2025-01-02,S017,East,Clothing,I00148,175.22,new
+20250105,S004,,Clothing,I00009,37.62,used
+2025-01-02,S006,,Toys,I00176,253.86,used
+2025-01-07,S016,,Electronics,I00133,13.73,used
+2025-01-01,S009,,Clothing,I00007,47.2,used
+2025-01-05,S009,East,Toys,I00160,-1.4,used
+2025-01-06,,East,,I00159,0,new
+2025-01-05,S001, SOUTH ,Electronics,I00140,-4.59,new
+2025-01-06,,South,Books,I00129,,new
+2025-01-02,,,Electronics,I00066,147.72,used
+2025-01-06,,North,Clothing,,178.69,new
+2025-01-03,,West,Toys,I00178,71.05,new
+2025-01-01,S020, WEST ,Electronics,I00184,8.11,new
+2025-01-04,S005,East,Electronics,I00058,N/A,used
+,S005,East,Clothing,I00008,61.9,used
+2025-01-04,S015,South,,I00137,unknown,new
+2025-01-01,S018,East,Toys,,90.07,new
+2025-01-03,S002,North,Clothing,I00119,258.3,used
+2025-01-07,S005,South,Books,I00072,22.19,new
+2025-01-05,S010,West,Clothing,I00082,248.54,new
+32-01-2025,S008,North,Electronics,I00180,174.8,new
+2025-01-04,S009,East,Electronics,I00186,167.18,new
+2025-01-03,S015,,Books,I00068,195.62,new
+2025-01-03,,East,,I00016,180.28,new
+2025-01-05,S009, EAST ,Electronics,I00086,223.49,used
+2025-01-05,S013,East,Electronics,I00188,148.31,new
+2025-01-02,S007,,Electronics,I00139,155.33,used
+2025-01-07,,West,Books,I00034,7.1,new
+2025-01-04,S007,,,I00071,,used
+2025-01-04,S001,,Books,I00167,-3.96,new
+2025-01-03,S010,West,,I00075,142.36,used
+2025-01-07,S009,East,Books,I00153,135.85,used
+2025-01-01,S008, NORTH ,Books,I00192,115.04,used
+2025/01/05,S009,East,,I00004,95.88,used
+2025-01-03,,North,Books,,238.54,new
+2025-01-05,S002,,,I00003,281.78,new
+2025-01-03,S001,East,Toys,I00062,--,new
+2025-01-01,S006,,Clothing,I00145,286.36,new
+2025-01-03,S005,South,Books,I00164,22.4,new
+2025-01-02,S019,East,Books,I00019,170.55,new
+2025-01-01,S001,West,Books,I00039,,used
+2025-01-07,S012,East,Toys,I00098,228.83,used
+2025-01-07,S011,South,Clothing,,82.82,used
+32-01-2025,S008,North,Electronics,I00180,291.74,new
+2025-01-04,S004,,,I00027,-4.64,new
+,S016,South,Clothing,I00142,-1,used
+2025-01-04,S006,North,Books,I00011,50.2,used
+2025-01-03,S013, SOUTH ,Electronics,I00026,274.25,new
+2025-01-01,S007, SOUTH ,,,268.84,used
+2025-01-01,S019,West,Clothing,I00014,139.15,used
+2025-01-06,,East,Books,I00187,273.32,new
+2025-01-06,S007,East,Books,I00199,173.4,new
+2025-01-05,S002,North,,I00138,62.03,used
+2025-01-01,S007,West,Electronics,I00118,31.57,new
+2025-01-05,S011,North,Clothing,I00059,N/A,new
+2025-01-03,S004,East,Toys,I00146,N/A,used
+2025-01-06,,East,Clothing,,110.49,used
+2025-01-03,S002,East,Clothing,I00065,69.99,new
+2025-01-07,S012,North,Clothing,I00150,160.75,new
+2025-01-01,S014,East,Clothing,I00151,299.94,used
+2025-01-02,S015,North,Electronics,I00033,168.89,new
+foo,S005,South,Toys,I00053,267.77,new
+2025-01-07,S007,South,Books,I00182,80.98,new
+2025-01-06,S005,North,Toys,I00035,235.62,new
+2025-01-04,,,,,134.28,new
+2025-01-04,S004,East,Toys,I00049,208.53,new
+2025-01-01,S005,East,Toys,I00121,89.04,used
+2025-01-05,S015,West,Books,I00057,,new
+2025-01-07,S012,North,Clothing,I00150,194.8,new
+2025-01-04,S006,North,Clothing,I00163,331.54,new
+2025-01-02,S008, NORTH ,Books,I00144,150.85,used
+2025-01-07,,East,Clothing,I00070,49.53,new
+,S009,North,Clothing,I00029,125.51,new
+01-05-2025,S001,North,,I00134,1.15,used
+2025-01-07,S006, EAST ,Toys,I00043,60.25,new
+2025-01-01,S012,East,Clothing,I00024,,new
+2025-01-01,S007, NORTH ,Clothing,I00092,28.82,new
+2025-01-02,S013,West,Clothing,I00179,0,used
+2025-01-01,S017, EAST ,,I00088,0,used
+2025-01-06,S013,East,Electronics,I00168,0,used
+2025-01-06,S016,South,,I00101,111.07,used
+2025-01-01,S017,East,Books,I00158,0,new
+2025-01-01,S019,West,Books,,-1,used
+32-01-2025,S006,West,Clothing,I00174,222.76,new
+2025-01-04,S020,South,,I00032,143.96,used
+2025-01-03,S003,North,Toys,,159.54,new
+2025-01-03,,West,Electronics,I00046,,used
+2025-01-07,S007,South,Electronics,I00109,209.66,new
+2025-01-03,S013,East,Toys,I00106,23.64,used
+2025-01-06,S017,East,,,79.16,used
+2025-01-01,S008,,Clothing,I00110,41.21,new
+2025-01-07,S020,,Toys,,-1,new
+2025-01-07,S012,East,Clothing,,134.86,new
+2025-01-06,S002,South,,I00105,80.88,used
+2025-01-04,S003,North,Clothing,,0,new
+2025/01/05,S019,East,Books,I00147,230.39,new
+2025-01-02,S018,West,Toys,I00084,175.9,used
+2025-01-06,S005,,Electronics,I00038,250.66,new
+2025-01-06,S001, NORTH ,Clothing,I00126,96.55,used
+2025-01-06,,West,Toys,,43.35,new
+2025-01-05,S007,East,Books,,,used
+2025-01-06,S002,South,,I00105,165.82,used
+2025-01-01,S019,West,Toys,I00001,63.23,used
+2025-01-06,, SOUTH ,Toys,,N/A,new
+2025-01-04,S018,East,,I00172,245.49,used
+2025-01-02,,South,Toys,I00089,222.04,used
+2025-01-07,S015,South,Electronics,I00078,140.31,used
+2025-01-06,S016,North,Books,,63.28,new
+2025-01-03,S016, WEST ,Clothing,I00162,292.68,used
+2025-01-01,S001,West,Toys,I00124,124.42,new
+2025-01-04,S006,West,Electronics,I00042,260.07,used
+2025-01-03,S018,North,Toys,,unknown,new
+2025-01-04,,West,Books,I00096,265.81,used
+2025-01-07,S016,East,Clothing,,80.16,used
+2025-01-04,S020,North,Books,I00115,39.47,used
+2025-01-05,S011,East,Books,I00076,79.62,new
+2025-01-04,S009,East,Toys,I00173,42.89,new
+2025-01-02,S015, SOUTH ,Clothing,,88.37,used
+2025-01-05,S002,,Clothing,I00097,27.9,new
+2025-01-05,S015,South,Electronics,I00197,57.72,used
+01-05-2025,S011,East,Clothing,I00006,bad_price,used
+2025-01-04,S019,West,Electronics,I00155,188.43,used
+not_a_date,S007,South,Toys,I00023,228.72,new
+20250105,S016,,Electronics,I00020,--,new
+2025-01-02,S010,East,Clothing,I00100,170.9,new
+2025-01-07,S001,West,Electronics,I00170,5.77,used
+2025-01-04,S006,North,Electronics,,125.19,new
+2025-01-06,S009,,Toys,I00161,187.97,used
+2025-01-05,S010,West,,I00074,221.45,used
+2025-01-07,S020,South,Clothing,I00018,71.19,new
+2025-01-01,S019,East,Books,,198.91,new
+2025-01-05,S013,North,Books,I00063,45.1,used
+2025-01-05,S016, NORTH ,Clothing,I00028,216.5,used
+2025-01-01,S003,West,Clothing,I00048,12.43,new
+32-01-2025,S006,East,Toys,I00080,115.2,new
+2025-01-02,S002,East,Toys,I00040,N/A,new
+2025-01-02,S020,West,Books,I00051,255.76,used
+2025-01-05,S007,East,Books,I00021,127.08,new
+2025-01-02,,West,Clothing,I00183,150.0,used
+2025-01-03,S008,East,Clothing,I00141,168.86,used
+2025-01-04,S017,North,Electronics,I00193,0,new
+2025-01-03,S001,North,Books,I00131,278.96,new
+2025-01-06,,East,,I00108,260.01,used
+2025-01-05,S020,North,Books,I00060,194.72,used
+2025-01-02,,West,Electronics,I00177,220.58,used
+2025-01-05,S018,,,I00194,251.62,used
+2025-01-02,S019,North,Electronics,I00056,-1,used
+2025-01-07,S007,South,Electronics,I00109,195.45,new
+,S002,West,Toys,I00152,-1,new
+2025-01-04,S020,South,,I00032,31.17,used
+2025-01-01,, WEST ,,I00181,,new
+2025-01-07,S010,East,Books,I00198,177.74,new
+2025-01-02,S013,North,Toys,I00069,35.42,new
+2025-01-04,S011,,Clothing,I00083,237.47,new
+2025-01-06,S007,East,Books,,33.01,new
+2025-01-06,,East,Toys,I00169,28.48,used
+2025-01-04,S009,East,Electronics,I00186,178.62,new
+2025-01-06,S004,North,Electronics,I00036,163.21,used
+2025-01-05,S013,North,Books,I00130,269.14,used
